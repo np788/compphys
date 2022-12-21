@@ -3,6 +3,8 @@ This repo contains work done for Andrew MacFadyen's Computational Physics class 
 
 ## LIGO
 
+This work used data from the Laser Interferometer Gravitational-Wave Observatory (LIGO) experiment to detect the first ever binary black hole merger.
+
 ## 2D Ising Model
 
 This work used Python to model the spins of ferromagnetic atoms arranged in a lattice. At high temperature, these spins are all in random directions but as the temperature decreases, the magnetic interactions align the spins. Ernst Ising solved this model in his 1924 thesis for 1D. He believed that this model doesn’t have a phase transition in any dimension. I demonstrated that he was wrong!
